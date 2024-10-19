@@ -1,0 +1,22 @@
+усовершенствовать стили более понятно и красиво.
+
+прятать контент при нажатии других кнопок.
+
+fetch - путь к файлу взять из аргумента функции в слушателе, положить туда
+данные о кнопке кнопка 1 = ссылка на первый урок.
+
+
+
+done:
+1.transform scale
+2. rename classes
+
+
+
+classes -
+1. html_menu >> btn_burger_menu 
+2. html_btn >> btn_module_out
+3. html_btn_after >> btn_module_in
+4.module_btns >> btns_block
+5.mom_module_btn >> btn_out
+6.lesson_btn >> btn_in
