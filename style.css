@@ -98,6 +98,7 @@ h2{
 }
 .btn_out{
     height: 50px;
+    margin: 10px;
 
     background: linear-gradient(to bottom,#c8c800, #007ebd );
     
